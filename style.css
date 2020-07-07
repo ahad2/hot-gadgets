@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.gray-bg{
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: aqua;
+}
+.buy-now{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
